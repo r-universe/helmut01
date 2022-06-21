@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "replicateBE"]
+	path = replicateBE
+	url = https://github.com/helmut01/replicatebe
+	shallow = true
+	registered = true
